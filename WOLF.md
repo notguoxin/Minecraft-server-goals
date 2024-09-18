@@ -9,4 +9,4 @@
 | 猩红狼 | 稀疏丛林 | ❎ |
 | 斑点狼 | 热带高原 | ❎ |
 | 条纹狼 | 旱林恶地 | ❎ |
-| ![](images\wolf\EntitySprite_ashen-wolf.webp)雪狼 | 雪林 | ✅ |
+| ![](images\wolf\EntitySprite_ashen-wolf.png)雪狼 | 雪林 | ✅ |
