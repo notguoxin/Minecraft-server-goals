@@ -1,11 +1,11 @@
-| 品种     |        获取地形         | 已获取 |
-| :------- | :---------------------: | :----- |
-| Ashen    |       Snowy Taiga       | ✅     |
-| Black    |  Old Growth Pine Taiga  | ❎     |
-| Chestnut | Old Growth Spruce Taiga | ❎     |
-| Pale     |          Taiga          | ❎     |
-| Rusty    |      Sparse Jungle      | ❎     |
-| Snowy    |          Grove          | ❎     |
-| Spotted  |     Savanna Plateau     | ❎     |
-| Striped  |     Wooded Badlands     | ❎     |
-| Woods    |         Forest          | ❎     |
+| 狼的变种 | 生物群系       | 已获取 |
+| :------- | :------------- | :----- |
+| 苍狼     | 针叶林         | ❎     |
+| 森林狼   | 森林           | ❎     |
+| 灰狼     | 积雪针叶林     | ❎     |
+| 黑狼     | 原始松木针叶林 | ❎     |
+| 栗色狼   | 原始云杉针叶林 | ❎     |
+| 猩红狼   | 稀疏丛林       | ❎     |
+| 斑点狼   | 热带高原       | ❎     |
+| 条纹狼   | 旱林恶地       | ❎     |
+| 雪狼     | 雪林           | ✅     |
