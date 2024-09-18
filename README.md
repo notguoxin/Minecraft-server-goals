@@ -1,4 +1,5 @@
 # Minecraft-server-goals
+> [!NOTE]  
 > Self hosted and not open to public \
 > 自托管且不对公众开放
 
