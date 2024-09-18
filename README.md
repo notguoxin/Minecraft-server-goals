@@ -1,4 +1,7 @@
 # Minecraft-server-goals
+> Self hosted and not open to public
+> 自托管且不对公众开放
+
 ### **前期目标：**
 - [x] 度过第一个夜晚
 - [ ] 基础种植
