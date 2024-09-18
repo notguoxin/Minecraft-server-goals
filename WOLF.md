@@ -1,6 +1,6 @@
 | 品种     |        获取地形         | 已获取 |
 | :------- | :---------------------: | :----- |
-| Ashen    |       Snowy Taiga       | [ ]    |
+| Ashen    |       Snowy Taiga       | [x]    |
 | Black    |  Old Growth Pine Taiga  | [ ]    |
 | Chestnut | Old Growth Spruce Taiga | [ ]    |
 | Pale     |          Taiga          | [ ]    |
